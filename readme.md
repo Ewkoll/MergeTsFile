@@ -1,6 +1,7 @@
 # Usage
 
 ```
+python main.py URL(随便某个片段的URL就可以)
 python main.py https://vod.fulixmi.cn/public/videos/5f1d90950553f01293feeddf/index2.ts
 ```
 
